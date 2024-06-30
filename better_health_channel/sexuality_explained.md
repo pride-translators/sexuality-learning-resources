@@ -14,57 +14,57 @@
 어떤 사람들은 섹슈얼리티 때문에 차별을 받기도 합니다. 누군가가 여러분의 섹슈얼리티에 대해 안좋은 말을 하고 시비를 건다면, 누군가와 이야기 해보는것이 좋습니다.
 
 
-## Different types of sexuality
-Sometimes, it can take time to figure out the sexuality that fits you best. And your sexuality can change over time. It can be confusing; so don’t worry if you are unsure.
+## 여러가지 종류의 섹슈얼리티
+때때로 자신에게 가장 잘 맞는 섹슈얼리티를 알아내는데 많은 시간이 걸리곤 합니다. 시간이 지나면서 섹슈얼리티가 바뀔 수도 있습니다. 혼란스러울수 있지만 확실하지 않더라도 걱정하지 마세요!
 
-You might be drawn to men or to women, to both or to neither. There is no right or wrong – it’s about what’s right for you. And while there are common terms to describe different types of sexuality, you don’t have to adopt a label to describe yourself.
+남자나 여자에게 매력을 느낄 수도 있고, 둘 다 혹은 매력을 아예 안 느낄 수도 있습니다. 여기서 옳고 그른 방법은 없으며, 여러분에게 맞는 섹슈얼리티를 찾는 것이 더 중요합니다. 섹슈얼리티를 설명하는데 일반적으로 사용되는 용어들이 있지만, 자신을 설명하기 위해 반드시 꼬리표를 붙일 필요는 없습니다.
 
-### Heterosexual and homosexual
-Most people are attracted to the opposite sex – boys who like girls, and women who like men, for example. These people are heterosexual, or ‘straight’.
+### 이성애와 동성애
+대부분의 사람들은 소년이 소녀를 좋아하는 것이나 여자가 남자를 좋아하는 것처럼 다른 성별에게 매력을 느끼게 됩니다. 이런 사람들이 이성애자라고 설명되는 사람들입니다.
 
-Some people are attracted to the same sex. These people are homosexual. Around 10 per cent of young Australians experience same-sex attraction, most during puberty.
+어떤 사람들은 같은 성별에게 매력을 느낄 수도 있습니다. 이러한 사람들이 동성애자라고 설명됩니다. 약 10 퍼센트의 젊은 호주인들이 사춘기 시기에 동성에게 매력을 느끼는 것으로 확인됩니다.
 
-‘Lesbian’ is the common term for people who identify as women and are same-sex attracted. ‘Gay’ is the most common term for people who identify as men and are same-sex attracted, although women identifying as lesbian also sometimes use this word.
+'레즈비언'은 본인을 여자라고 정체화하면서 같은 성별인 사람들에게 매력을 느끼는 사람들을 설명하는데 주로 사용되는 용어입니다. '게이'는 본인을 남자라고 정체화하면서 같은 성별인 사람들에게 매력을 느끼는 사람들을 설명하는데 주로 사용되는 용어입니다. 하지만 본인을 레즈비언이라고 정체화하는 사람들이 '게이'라는 단어를 사용할수도 있습니다.
 
-The Better Health Channel has more information on [lesbian sexuality](https://www.betterhealth.vic.gov.au/health/healthyliving/lesbian-sexuality) and [gay male sexuality](https://www.betterhealth.vic.gov.au/health/healthyliving/gay%20male%20sexuality).
-
-
-### Bisexual
-Sexuality can be more complicated than being straight or gay. Some people are attracted to both men and women, and are known as bisexual.
-
-Bisexual does not mean the attraction is evenly weighted – a person may have stronger feelings for one gender than another. And this can vary depending on who they meet.
-
-There are different kinds of bisexuality. Some people who are attracted to men and women still consider themselves to be mainly straight or gay. Or they might have sexual feelings towards both genders but only have intercourse with one.
-
-Other people see sexual attraction as more grey than black and white. These people find everyday labels too rigid. Some prefer to identify as ‘queer’. And others use the term ‘pan’, or ‘pansexual’, to show they are attracted to different kinds of people no matter what their gender, identity or expression.
-
-There are many differences between individuals, so bisexuality is a general term only. You can read more about it at the Better Health Channel’s page on [bisexuality](https://www.betterhealth.vic.gov.au/health/healthyliving/bisexuality).
+Better Health Channel은 [레즈비언 섹슈얼리티](https://www.betterhealth.vic.gov.au/health/healthyliving/lesbian-sexuality)와 [게이 남성 섹슈얼리티](https://www.betterhealth.vic.gov.au/health/healthyliving/gay%20male%20sexuality)에 대한 문서들도 가지고 있으니 참고해보세요.
 
 
-### Asexual
-A person who identifies as asexual (‘ace’ for short) is someone who does not experience, or experiences very little, sexual attraction. Asexuality is not a choice, like abstinence (where someone chooses not to have sex with anyone, whether they are attracted to them or not). Asexuality is a sexual orientation, like homosexuality or heterosexuality. Some people may strongly identify with being asexual, except for a few infrequent experiences of sexual attraction (grey-asexuality). Some people feel sexual attraction only after they develop a strong emotional bond with someone (this is known as demisexuality). Other people experience asexuality in a range of other ways.
+### 양성애
+섹슈얼리티는 이성애자가 되는 것이나 게이가 되는 것보다 더 복잡할 수도 있는 개념입니다. 어떤 사람들은 남자와 여자 모두에게 매력을 느끼게 되는데, 이런 사람들은 양성애자라고 알려져 있습니다.
+
+양성애자가 된다고 각 성별에게 똑같은 매력을 느끼는 것은 아닙니다. 어떤 사람은 한 젠더에 다른 젠더보다 더 강한 매력을 느낄 수도 있습니다. 이러한 매력의 정도는 만나게 되는 사람마다 다르게 느껴질 수도 있으니 참고해주세요.
+
+세상에는 다양한 종류의 양성애자 분류들이 있는데, 남자와 여자 모두에게 매력을 느끼는 어떤 사람들은 자신들을 이성애자라고 할수도 있고 게이라고 할수도 있습니다. 어떤 사람들은 두 젠더 모두에게 매력을 느끼지만 한 젠더하고만 성관계를 가질 수도 있습니다.
+
+어떤 사람들은 섹슈얼리티를 흑백 논리처럼 명확하게 보지 않고, 더 애매하게 생각할수도 있습니다. 이러한 사람들은 일상적으로 사용되는 꼬리표가 너무 경직되었다고 느끼고, 일부는 자신을 '퀴어'로 정체화하기도 합니다. 또 어떤 사람들은 '팬 (pan)' 혹은 '팬섹슈얼 (pansexual)' 이라는 용어를 사용하여 자신들이 젠더, 젠더 정체성, 젠더 표현과 관계없이 다양한 사람들에게 매력을 느낀다고 알려주기도 합니다.
+
+사람마다 차이가 있을수 있기 때문에 양성애가 그냥 일반적으로 사용되는 용어라고 기억해주셔도 좋습니다. 양성애에 대해 더 알고 싶다면 Better Health Channel의 [양성애](https://www.betterhealth.vic.gov.au/health/healthyliving/bisexuality) 페에지를 참고해주세요.
 
 
-## Discrimination based on sexuality
-Equality and freedom from discrimination are fundamental human rights that belong to all people.
-
-In most states in Australia, including Victoria, it is against the law to discriminate against someone because of their sexual orientation, gender identity or lawful sexual activity. However, discrimination can still occur.
-
-If you think you have been [discriminated against](https://www.humanrightscommission.vic.gov.au/discrimination) or victimised because of your sexuality ([or a range of other reasons](https://www.humanrights.vic.gov.au/for-individuals/discrimination/)) contact the [Victorian Equal Opportunity and Human Rights Commission](https://www.humanrightscommission.vic.gov.au/home/about-us/contact-us) [](https://www.humanrightscommission.vic.gov.au/home/about-us/contact-us). For information on the legal obligations of employers regarding discrimination based on sexual identity, see the Victorian Equal Opportunity and [Human Rights Commission](https://www.humanrights.vic.gov.au/) webpage on equal opportunity practice guidelines.
+### 무성애
+성적 매력을 전혀 느끼지 않거나 전혀 느끼지 않는 사람들은 스스로를 무성애자 (혹은 영어 약자로 'ace') 라고 정체화합니다. 무성애는 금욕 (누군가가 성적 매력을 느끼는지의 여부와 관계없이 성관계를 가지지 않기로 하는 것) 처럼 선택의 문제가 아닙니다. 무성애는 동성애나 이성애처럼 하나의 성적 지향입니다. 어떤 사람들은 성적 매력을 잘 느끼지 않지만, 가끔 드물게 성적으로 매력을 느끼는 경우도 있습니다. (이를 '회색 무성애' 라고 부릅니다.) 또 어떤 사람들은 강한 감정적 유대감을 형성한 후에만 성적 매력을 느끼기도 합니다. (이를 '데미섹슈얼' 이라고 부릅니다.) 사람들은 이렇게 보통 여러 가지 방법으로 무성애를 경험합니다.
 
 
-## Sexuality and mental health
-LGBTIQA+ people have an increased risk of depression, anxiety, substance abuse, homelessness, self-harming and suicidal thoughts, compared with the general population. This is particularly true of young LGBTIQA+ people who are coming to terms with their sexuality and experiencing victimisation and bullying at school.
+## 섹슈얼리티에 기반한 차별
+차별로부터의 평등과 자유는 모든 사람들에게 보장되는 기본적인 인권입니다.
 
-Some of the stressful experiences that can affect the mental health of an LGBTIQA+ person are:
+빅토리아주를 포함한 호주의 대부분의 주에서는 섹슈얼리티, 젠더 정체성, 또는 합법적인 성적 활동을 이유로 누군가를 차별하는 것이 법적으로 금지되어 있습니다. 하지만 그렇더라도 차별이 발생할 수 있습니다.
 
-- feeling different from other people
-- being bullied (verbally or physically)
-- feeling pressure to deny or change their sexuality
-- feeling worried about coming out, and then being rejected or isolated
-- feeling unsupported or misunderstood.
+여러분이 섹슈얼리티 ([혹은 다른 여러 이유](https://www.humanrights.vic.gov.au/for-individuals/discrimination/))로 [차별을 당했거나](https://www.humanrightscommission.vic.gov.au/discrimination) 피해자가 됐다고 생각한다면,  [빅토리아주 평등 기회 및 인권 위원회](https://www.humanrightscommission.vic.gov.au/home/about-us/contact-us)에 연락해주세요. 성 정체성에 기반한 차별에 관해서 고용주의 법적 의무에 대한 정보를 확인하고 싶다면 빅토리아주 기회 평등 및 [인권 위원회](https://www.humanrights.vic.gov.au/) 웹페이지의 평등한 기회 실천 가이드라인을 확인해주세요.
 
-These pressures are on top of all the other stuff people have to deal with in life such as managing school, finding a job, forming relationships and making sense of your identity and place in the world.
+
+## 섹슈얼리티와 정신 건강
+LGBTQIA+ 에 해당하는 사람들은 다른 사람들에 비해 우울증, 불안, 약물 남용, 노숙, 자해, 자살 충동 등의 위험에 더 많이 노출돼 있습니다. 자신의 섹슈얼리티를 받아들였고 학교에서 피해나 괴롭힘을 경험하는 젊은 LGBTQIA+ 에 해당하는 사람들의 경우 특히 더 그렇습니다.
+
+LGBTQIA+ 에 해당하는 사람들이 겪을 수 있는 정신 건강에 악영향을 미치고, 스트레스가 될 수도 있는 경험들의 예시는 다음과 같습니다.
+
+- 다른 사람들과 다르다고 느낌
+- 괴롭힘을 당함 (언어적 혹은 물리적으로)
+- 자신들의 섹슈얼리티를 부정당하거나 바꾸라는 압박을 받음
+- 커밍아웃을 하고 거부당하거나 고립될까봐 걱정하게 됨
+- 지지받지 못한다거나 오해받는다고 느낌
+
+이러한 압박은 종종 학교 생활 관리, 구인 활동, 관계 형성, 정체성 탐색 등 사람들이 인생에서 겪는 다른 문제와 함께 동반됩니다.
 
 
 ## Helping someone struggling with their sexuality and mental health
@@ -76,12 +76,12 @@ If you are worried that someone you know has a mental health problem, look out f
 - If you think you’re gay but you don’t want to ‘come out’, it’s okay. If you want, you can read more about [coming out](http://au.reachout.com/coming-out)
 
 
-## Where to get help
-For information about your rights:
+## 어디서 도움을 받아야 하나요?
+스스로의 인권에 대해 더 알아볼려면 다음 문서를 참고해주세요.
 
 - [Victorian Equal Opportunity and Human Rights Commission](http://www.humanrightscommission.vic.gov.au/discrimination/discrimination/types-of-discrimination/gender-identity-lawful-sexual-activity-sexual-orientation)
 
-If you want to talk to someone, chat online, or find out more about LGBTIQA+ issues:
+누군가와 이야기, 온라인 채팅을 하거나 LGBTQIA+ 관련된 문제에 대해 더 알아보고 싶다면 다음 링크들을 확인해주세요.
 
 - [QLife](https://qlife.org.au)(counselling and referral service for LGBTIQA+ people) – Tel. [1800 184 527](tel:1800184527)
 - [Headspace](https://headspace.org.au/)(mental health service for ages 12–25) – Tel. [1800 650 890](tel:1800650890)
