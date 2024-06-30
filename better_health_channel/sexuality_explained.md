@@ -67,13 +67,13 @@ LGBTQIA+ 에 해당하는 사람들이 겪을 수 있는 정신 건강에 악영
 이러한 압박은 종종 학교 생활 관리, 구인 활동, 관계 형성, 정체성 탐색 등 사람들이 인생에서 겪는 다른 문제와 함께 동반됩니다.
 
 
-## Helping someone struggling with their sexuality and mental health
-If you are worried that someone you know has a mental health problem, look out for changes in their mood, behaviour, relationships, appetite, sleep patterns, coping and thinking. If these changes last more than a couple of weeks, talk to them about getting help. A good place to start is their doctor, or a phone or online service such as [QLife](https://qlife.org.au/), [beyondblue](https://www.beyondblue.org.au/)or [eheadspace](https://www.eheadspace.org.au/) (for young people). If you are struggling with your own sexuality:
+## 어떻게 섹슈얼리티와 정신 건강 문제를 겪는 사람을 도와줄 수 있을까요?
+알고 있는 누군가가 정신 건강 문제들을 가지고 있는지 걱정된다면 그 사람의 기분, 행동, 대인 관계, 식욕, 수면 패턴, 상황에 대처하는 방법, 생각하는 내용에 대해 자세히 살펴보세요. 이러한 변화가 몇 주 이상 계속 지속된다면, 도움을 받도록 설득해볼수도 있습니다. 의사와 상의해보거나 [QLife](https://qlife.org.au/), [beyondblue](https://www.beyondblue.org.au/), (젊은 사람들에게 좋은) [eheadspace](https://www.eheadspace.org.au/) 등의 온라인 서비스를 이용해 보는 것이 좋은 출발점이기도 합니다. 본인 스스로의 섹슈얼리티에 대해 어려움을 겪고 있는 경우에는 다음을 시도해보세요.
 
-- Get support if you’re finding it hard to cope. Try talking to someone you trust – a friend, relative, doctor or counsellor, or use a helpline such as [QLife](https://qlife.org.au/), [beyondblue](https://www.beyondblue.org.au/) or [eheadspace](https://www.eheadspace.org.au/).
-- Don’t hang around someone if they are abusive to you.
-- Remember, there is no rush to figure out your sexuality. Take your time. And don’t feel pressured to put a label on it.
-- If you think you’re gay but you don’t want to ‘come out’, it’s okay. If you want, you can read more about [coming out](http://au.reachout.com/coming-out)
+- 대처하기 어려운 경우에는 도움을 받아보세요. 친구, 친척, 의사, 상담사와 이야기해보거나 [QLife](https://qlife.org.au/), [beyondblue](https://www.beyondblue.org.au/), [eheadspace](https://www.eheadspace.org.au/) 와 같은 전화 상담 서비스를 이용해 보는 등, 신뢰할 수 있는 사람과 이야기 해보는 것도 좋습니다.
+- 누군가가 당신에게 못되게 군다면, 그 사람 주위에 있지 않아도 됩니다.
+- 서둘러서 섹슈얼리티를 알아낼 필요는 없습니다. 시간을 갖고 천천히 생각해보세요. 꼬리표를 붙여야 한다고 압박을 받을 필요도 없습니다.
+- 본인이 게이라고 생각하지만 '커밍아웃'을 하기 싫다면 그것도 괜찮습니다. 원한다면 [커밍아웃](http://au.reachout.com/coming-out) 에 대한 문서도 있으니 한번 읽어보세요.
 
 
 ## 어디서 도움을 받아야 하나요?
