@@ -79,18 +79,18 @@ LGBTQIA+ 에 해당하는 사람들이 겪을 수 있는 정신 건강에 악영
 ## 어디서 도움을 받아야 하나요?
 스스로의 인권에 대해 더 알아볼려면 다음 문서를 참고해주세요.
 
-- [Victorian Equal Opportunity and Human Rights Commission](http://www.humanrightscommission.vic.gov.au/discrimination/discrimination/types-of-discrimination/gender-identity-lawful-sexual-activity-sexual-orientation)
+- [빅토리아주 회 및 인권 위원회](http://www.humanrightscommission.vic.gov.au/discrimination/discrimination/types-of-discrimination/gender-identity-lawful-sexual-activity-sexual-orientation)
 
 누군가와 이야기, 온라인 채팅을 하거나 LGBTQIA+ 관련된 문제에 대해 더 알아보고 싶다면 다음 링크들을 확인해주세요.
 
-- [QLife](https://qlife.org.au) (counselling and referral service for LGBTIQA+ people) – Tel. [1800 184 527](tel:1800184527)
-- [Headspace](https://headspace.org.au/) (mental health service for ages 12–25) – Tel. [1800 650 890](tel:1800650890)
-- [ReachOut](http://au.reachout.com) (youth mental health service)
-- [Beyond Blue](https://www.beyondblue.org.au) (for anyone feeling depressed or anxious) – Tel. [1300 22 4636](tel:1300224636)
-- [Lifeline](https://www.lifeline.org.au) (support for anyone having a personal crisis) – Tel. [13 11 14](tel:131114)
+- [QLife](https://qlife.org.au) (LGBTQIA+ 인 사람들을 위한 상담 및 추천 서비스) – Tel. [1800 184 527](tel:1800184527)
+- [Headspace](https://headspace.org.au/) (12-25살인 사람들에게 좋은 정신 건강 서비스) – Tel. [1800 650 890](tel:1800650890)
+- [ReachOut](http://au.reachout.com) (젊은 사람들을 위한 저신 건강 서비스)
+- [Beyond Blue](https://www.beyondblue.org.au) (우울하거나 불안한 누구나 이용할 수 있는 도움) – Tel. [1300 22 4636](tel:1300224636)
+- [Lifeline](https://www.lifeline.org.au) (개인적으로 어려움을 겪고 있는 누구나 이용할수 있는 도움) – Tel. [13 11 14](tel:131114)
 - [Kids Helpline](https://kidshelpline.com.au) – Tel. [1800 55 1800](tel:1800551800)
-- [Switchboard](http://www.switchboard.org.au) – Tel. [1800 184 527](tel:1800184527) (telephone counselling, information and referrals)
-- [Suicide Call Back Service](https://www.suicidecallbackservice.org.au) – Tel. [1300 659 467](tel:1300659467) (for anyone thinking about suicide)
-- You may also be interested in visiting these sites:
-	- [ACON](http://www.acon.org.au) (for LGBTIQA+ health and HIV prevention and support)
-	- [PFLAG Australia](http://pflagaustralia.org.au/) (Parents and Friends of Lesbians and Gays)
+- [Switchboard](http://www.switchboard.org.au) – Tel. [1800 184 527](tel:1800184527) (전화 상담, 정보 제공, 추천 서비스)
+- [Suicide Call Back Service](https://www.suicidecallbackservice.org.au) – Tel. [1300 659 467](tel:1300659467) (자살 생각을 하고 있는 누구나 이용할 수 있음)
+- 관심이 있다면 다음 사이트를 방문해봐도 좋습니다.
+	- [ACON](http://www.acon.org.au) (LGBTQIA+ 건강과 HIV 방지, 지원)
+	- [PFLAG Australia](http://pflagaustralia.org.au/) (레즈비언과 게이인 자녀를 두고 있는 가족들이나 친구들)
