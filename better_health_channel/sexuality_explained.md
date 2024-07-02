@@ -79,7 +79,7 @@ LGBTQIA+인 사람들이 겪을 수 있는 정신 건강에 악영향을 미치�
 ## 어디서 도움을 받아야 하나요?
 스스로의 인권에 대해 더 알아볼려면 다음 문서를 참고해주세요.
 
-- [빅토리아주 회 및 인권 위원회](http://www.humanrightscommission.vic.gov.au/discrimination/discrimination/types-of-discrimination/gender-identity-lawful-sexual-activity-sexual-orientation)
+- [빅토리아주 평등 기회 및 인권 위원회](http://www.humanrightscommission.vic.gov.au/discrimination/discrimination/types-of-discrimination/gender-identity-lawful-sexual-activity-sexual-orientation)
 
 누군가와 이야기, 온라인 채팅을 하거나 LGBTQIA+ 관련된 문제에 대해 더 알아보고 싶다면 다음 링크들을 확인해주세요.
 
