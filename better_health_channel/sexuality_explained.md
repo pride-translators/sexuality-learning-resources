@@ -83,14 +83,14 @@ LGBTQIA+ 에 해당하는 사람들이 겪을 수 있는 정신 건강에 악영
 
 누군가와 이야기, 온라인 채팅을 하거나 LGBTQIA+ 관련된 문제에 대해 더 알아보고 싶다면 다음 링크들을 확인해주세요.
 
-- [QLife](https://qlife.org.au)(counselling and referral service for LGBTIQA+ people) – Tel. [1800 184 527](tel:1800184527)
-- [Headspace](https://headspace.org.au/)(mental health service for ages 12–25) – Tel. [1800 650 890](tel:1800650890)
-- [ReachOut](http://au.reachout.com)(youth mental health service)
-- [Beyond Blue](https://www.beyondblue.org.au)(for anyone feeling depressed or anxious) – Tel. [1300 22 4636](tel:1300224636)
-- [Lifeline](https://www.lifeline.org.au)(support for anyone having a personal crisis) – Tel. [13 11 14](tel:131114)
-- [Kids Helpline](https://kidshelpline.com.au)Tel. [1800 55 1800](tel:1800551800)
-- [Switchboard](http://www.switchboard.org.au)Tel. [1800 184 527](tel:1800184527) (telephone counselling, information and referrals)
-- [Suicide Call Back Service](https://www.suicidecallbackservice.org.au)Tel. [1300 659 467](tel:1300659467) (for anyone thinking about suicide)
+- [QLife](https://qlife.org.au) (counselling and referral service for LGBTIQA+ people) – Tel. [1800 184 527](tel:1800184527)
+- [Headspace](https://headspace.org.au/) (mental health service for ages 12–25) – Tel. [1800 650 890](tel:1800650890)
+- [ReachOut](http://au.reachout.com) (youth mental health service)
+- [Beyond Blue](https://www.beyondblue.org.au) (for anyone feeling depressed or anxious) – Tel. [1300 22 4636](tel:1300224636)
+- [Lifeline](https://www.lifeline.org.au) (support for anyone having a personal crisis) – Tel. [13 11 14](tel:131114)
+- [Kids Helpline](https://kidshelpline.com.au) – Tel. [1800 55 1800](tel:1800551800)
+- [Switchboard](http://www.switchboard.org.au) – Tel. [1800 184 527](tel:1800184527) (telephone counselling, information and referrals)
+- [Suicide Call Back Service](https://www.suicidecallbackservice.org.au) – Tel. [1300 659 467](tel:1300659467) (for anyone thinking about suicide)
 - You may also be interested in visiting these sites:
-	- [ACON](http://www.acon.org.au)(for LGBTIQA+ health and HIV prevention and support)
-	- [PFLAG Australia](http://pflagaustralia.org.au/)(Parents and Friends of Lesbians and Gays)
+	- [ACON](http://www.acon.org.au) (for LGBTIQA+ health and HIV prevention and support)
+	- [PFLAG Australia](http://pflagaustralia.org.au/) (Parents and Friends of Lesbians and Gays)
