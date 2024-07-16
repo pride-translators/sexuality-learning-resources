@@ -38,7 +38,7 @@ Better Health Channel은 [레즈비언 섹슈얼리티](https://www.betterhealth
 
 어떤 사람들은 섹슈얼리티를 흑백 논리처럼 명확하게 보지 않고, 더 애매하게 생각할수도 있습니다. 이러한 사람들은 일상적으로 사용되는 꼬리표가 너무 경직되었다고 느끼고, 일부는 자신을 '퀴어'로 정체화하기도 합니다. 또 어떤 사람들은 '팬 (pan)' 혹은 '팬섹슈얼 (pansexual)' 이라는 용어를 사용하여 자신들이 젠더, 젠더 정체성, 젠더 표현과 관계없이 다양한 사람들에게 매력을 느낀다고 알려주기도 합니다.
 
-사람마다 차이가 있을수 있기 때문에 양성애가 그냥 일반적으로 사용되는 용어라고 기억해주셔도 좋습니다. 양성애에 대해 더 알고 싶다면 Better Health Channel의 [양성애](https://www.betterhealth.vic.gov.au/health/healthyliving/bisexuality) 페에지를 참고해주세요.
+사람마다 차이가 있을수 있기 때문에 양성애가 그냥 일반적으로 사용되는 용어라고 기억해주셔도 좋습니다. 양성애에 대해 더 알고 싶다면 Better Health Channel의 [양성애](https://www.betterhealth.vic.gov.au/health/healthyliving/bisexuality) 페이지를 참고해주세요.
 
 
 ### 무성애
