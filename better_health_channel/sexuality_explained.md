@@ -50,7 +50,7 @@ Better Health Channel은 [레즈비언 섹슈얼리티](https://www.betterhealth
 
 빅토리아주를 포함한 호주의 대부분의 주에서는 섹슈얼리티, 젠더 정체성, 또는 합법적인 성적 활동을 이유로 누군가를 차별하는 것이 법적으로 금지되어 있습니다. 하지만 그렇더라도 차별이 발생할 수 있습니다.
 
-여러분이 섹슈얼리티 ([혹은 다른 여러 이유](https://www.humanrights.vic.gov.au/for-individuals/discrimination/))로 [차별을 당했거나](https://www.humanrightscommission.vic.gov.au/discrimination) 피해자가 됐다고 생각한다면,  [빅토리아주 평등 기회 및 인권 위원회](https://www.humanrightscommission.vic.gov.au/home/about-us/contact-us)에 연락해주세요. 성 정체성에 기반한 차별에 관해서 고용주의 법적 의무에 대한 정보를 확인하고 싶다면 빅토리아주 기회 평등 및 [인권 위원회](https://www.humanrights.vic.gov.au/) 웹페이지의 평등한 기회 실천 가이드라인을 확인해주세요.
+여러분이 섹슈얼리티 ([혹은 다른 여러 이유](https://www.humanrights.vic.gov.au/for-individuals/discrimination/)) 로 [차별을 당했거나](https://www.humanrightscommission.vic.gov.au/discrimination) 피해자가 됐다고 생각한다면,  [빅토리아주 회 및 인권 위원회](https://www.humanrightscommission.vic.gov.au/home/about-us/contact-us)에 연락해주세요. 성 정체성에 기반한 차별에 관해서 고용주의 법적 의무에 대한 정보를 확인하고 싶다면 빅토리아주 기회 평등 및 [인권 위원회](https://www.humanrights.vic.gov.au/) 웹페이지의 평등한 기회 실천 가이드라인을 확인해주세요.
 
 
 ## 섹슈얼리티와 정신 건강
@@ -73,7 +73,7 @@ LGBTQIA+인 사람들이 겪을 수 있는 정신 건강에 악영향을 미치�
 - 대처하기 어려운 경우에는 도움을 받아보세요. 친구, 친척, 의사, 상담사와 이야기해보거나 [QLife](https://qlife.org.au/), [beyondblue](https://www.beyondblue.org.au/), [eheadspace](https://www.eheadspace.org.au/) 와 같은 전화 상담 서비스를 이용해 보는 등, 신뢰할 수 있는 사람과 이야기 해보는 것도 좋습니다.
 - 누군가가 당신에게 못되게 군다면, 그 사람 주위에 있지 않아도 됩니다.
 - 서둘러서 섹슈얼리티를 알아낼 필요는 없습니다. 시간을 갖고 천천히 생각해보세요. 꼬리표를 붙여야 한다고 압박을 받을 필요도 없습니다.
-- 본인이 게이라고 생각하지만 '커밍아웃'을 하고싶지 않다면 그것도 괜찮습니다. 원한다면 [커밍아웃](http://au.reachout.com/coming-out) 에 대한 문서도 있으니 한번 읽어보세요.
+- 본인이 게이라고 생각하지만 '커밍아웃'을 하고싶지 않다면 그것도 괜찮습니다. 원한다면 [커밍아웃](http://au.reachout.com/coming-out)에 대한 문서도 있으니 한번 읽어보세요.
 
 
 ## 어디서 도움을 받아야 하나요?
