@@ -85,7 +85,7 @@ LGBTQIA+인 사람들이 겪을 수 있는 정신 건강에 악영향을 미치�
 
 - [QLife](https://qlife.org.au) (LGBTQIA+ 인 사람들을 위한 상담 및 추천 서비스) – Tel. [1800 184 527](tel:1800184527)
 - [Headspace](https://headspace.org.au/) (12-25살인 사람들에게 좋은 정신 건강 서비스) – Tel. [1800 650 890](tel:1800650890)
-- [ReachOut](http://au.reachout.com) (젊은 사람들을 위한 저신 건강 서비스)
+- [ReachOut](http://au.reachout.com) (젊은 사람들을 위한 정신 건강 서비스)
 - [Beyond Blue](https://www.beyondblue.org.au) (우울하거나 불안한 누구나 이용할 수 있는 도움) – Tel. [1300 22 4636](tel:1300224636)
 - [Lifeline](https://www.lifeline.org.au) (개인적으로 어려움을 겪고 있는 누구나 이용할수 있는 도움) – Tel. [13 11 14](tel:131114)
 - [Kids Helpline](https://kidshelpline.com.au) – Tel. [1800 55 1800](tel:1800551800)
