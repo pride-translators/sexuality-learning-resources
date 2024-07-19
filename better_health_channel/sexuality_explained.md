@@ -50,7 +50,7 @@ Better Health Channel은 [레즈비언 섹슈얼리티](https://www.betterhealth
 
 빅토리아주를 포함한 호주의 대부분의 주에서는 섹슈얼리티, 젠더 정체성, 또는 합법적인 성적 활동을 이유로 누군가를 차별하는 것이 법적으로 금지되어 있습니다. 하지만 그렇더라도 차별이 발생할 수 있습니다.
 
-여러분이 섹슈얼리티 ([혹은 다른 여러 이유](https://www.humanrights.vic.gov.au/for-individuals/discrimination/)) 로 [차별을 당했거나](https://www.humanrightscommission.vic.gov.au/discrimination) 피해자가 됐다고 생각한다면,  [빅토리아주 회 및 인권 위원회](https://www.humanrightscommission.vic.gov.au/home/about-us/contact-us)에 연락해주세요. 성 정체성에 기반한 차별에 관해서 고용주의 법적 의무에 대한 정보를 확인하고 싶다면 빅토리아주 기회 평등 및 [인권 위원회](https://www.humanrights.vic.gov.au/) 웹페이지의 평등한 기회 실천 가이드라인을 확인해주세요.
+여러분이 섹슈얼리티 ([혹은 다른 여러 이유](https://www.humanrights.vic.gov.au/for-individuals/discrimination/)) 로 [차별을 당했거나](https://www.humanrightscommission.vic.gov.au/discrimination) 피해자가 됐다고 생각한다면,  [빅토리아주 회 및 인권 위원회](https://www.humanrightscommission.vic.gov.au/home/about-us/contact-us)에 연락해주세요. 섹슈얼리티와 관련된 정체성에 기반한 차별에 관한 고용주의 법적 의무에 대한 정보를 확인하고 싶다면 빅토리아주 기회 평등 및 [인권 위원회](https://www.humanrights.vic.gov.au/) 웹페이지의 평등한 기회 실천 가이드라인을 확인해주세요.
 
 
 ## 섹슈얼리티와 정신 건강
