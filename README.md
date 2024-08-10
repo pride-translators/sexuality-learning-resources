@@ -4,3 +4,6 @@
 
 ## [Better Health Channel](https://www.betterhealth.vic.gov.au)
 - [섹슈얼리티에 대해 설명해보겠습니다](./better_health_channel/sexuality_explained.md)
+
+## [Human Rights Campaign](https://www.hrc.org/)
+- [무성애자 그룹 이해하기](./human_rights_campaign/understanding_the_asexual_community.md)
