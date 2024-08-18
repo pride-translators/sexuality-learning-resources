@@ -1,82 +1,83 @@
-# What is Asexuality?
-Within the asexual community, there are many ways for people to identify.
+# 무성애 이해하기
+무성애 공동체 내에서도 정체화하는 데에 여러 가지 방법이 존재합니다.
 
 > 원문을 읽고 싶으신가요? [여기](https://www.thetrevorproject.org/resources/article/understanding-asexuality/)를 확인해보세요.
 
-"Love doesn’t equal sex."
+"사랑은 성관계와 동일하지 않다."
 
 
-## What is Asexuality?
-It’s important to remember that asexuality is an umbrella term, and exists on a spectrum. Asexual people — also known as “Ace” or “Aces” — may have little interest in having sex, even though they desire emotionally intimate relationships. Within the ace community, there are many ways for people to identify.
+## 무성애가 뭔가요?
+무성애가 포괄적인 용어이며 스펙트럼에 존재한다는 사실을 기억해주는 편이 좋습니다. "Ace" 혹은 "Aces" 라고도 알려진 무성애자들은 간접적으로 친밀한 관계를 원함에도 성관계에 거의 관심이 없는 사람들입니다. 무성애 공동체 내에서도 정체화하는 데에 여러 가지 방법이 존재합니다.
 
-Common terms and identities on the asexual spectrum include:
+무성애 스펙트럼에는 다음과 같은 용어와 정체성이 존재합니다:
 
-- **_Demisexual_:** People who only experience sexual attraction once they form a strong emotional connection with another person.
-- **_Grey-A_:** People who identify somewhere between sexual and asexual.
-- **_Queerplatonic_:** People who experience a type of non-romantic relationship where there is an intense emotional connection that goes beyond a traditional friendship.
-
-
-
-## Asexuality & Romantic Relationships
-Aces commonly use hetero-, homo-, bi-, and pan- in front of the word romantic to describe who they experience romantic attraction to. For example, an asexual person who is hetero-romantic might be attracted to people of a different sex or gender, but not in a sexual way.
+- **_데미섹슈얼:_** 강한 감정적 유대감을 형성한 후에만 성적 끌림을 느끼는 사람들.
+- **_회색 무성애:_** 성애와 무성애 사이 어딘가에 위치한 사람들.
+- **_퀴어플라토닉_:** 전통적인 친구 관계를 넘어서는 강렬한 감정적 연결을 동반하는 비로맨틱한 관계를 경험하는 사람들.
 
 
 
-## Frequently Asked Questions About Asexuality
-1. My friends talk about sex all the time, but I don’t feel any desire to be with someone in that way. Is it normal to not feel any sexual attraction towards other people?
-2. I am romantically attracted to boys and girls, but I don’t want to be with them physically. Can I be bisexual and asexual?
-3. I kissed my boyfriend for the first time and it was gross! Does this mean I am asexual?
-4. How do I tell my partner/the person I like that I am asexual?
-5. People are telling me that something is wrong with me now that I’ve come out as asexual. Even worse, some are saying that asexuality doesn’t exist. How can I help them understand me?
+## 무성애와 로맨틱한 관계
+> 번역 참고: 한국어로는 아직 무성애 용어들이 많이 옮겨지지 않은 상태입니다. 대체 용어가 없으므로 우선 영어로 표기해두겠습니다.
+
+> 번역 참고: 영어 접두사에 대해 더 알아보고 싶다면 [이 문서](https://namu.wiki/w/%EC%A0%91%EB%91%90%EC%82%AC/%EC%98%81%EC%96%B4)를 참고해 보세요.
+
+무성애자들은 주로 영어 단어 로맨틱 (romanticc) 앞에 헤테로(hetero-), 호모(homo-), 바이(bi-), 팬(pan-) 과 같은 영어 접두사를 붙여서 자신이 누구에게 로맨틱한 끌림을 느끼는지 설명하곤 합니다. 예를 들어서, 헤테로로맨틱인 무성애자는 성적인 방식은 아니지만 다른 성이나 젠더인 사람에게 끌림을 느낄 수도 있습니다.
 
 
 
-#### _**Question** **1: My friends talk about sex all the time, but I don’t feel any desire to be with someone in that way. Is it normal to not feel any sexual attraction towards other people?**_
-Answer: Yes, it is completely normal to not feel sexual attraction towards other people. Love doesn’t have to equal sex! You can have strong, meaningful relationships with friends or partners that don’t necessarily involve a sexual connection. In fact, there is a huge spectrum of identities and sexualities out there that can help describe different kinds of attraction. We encourage you to learn more about identities like asexuality, which may help you feel more at ease about not feeling sexually attracted to others. Remember, nothing is set in stone, and you don’t have to label yourself with a term unless you’re ready. Your feelings may or may not change over time, and that is completely okay!
+## 무성애에 대해 자주 질문되는 내용들
+1. 제 친구들이 섹스에 대해 항상 이야기하고 다녀요, 그런데 저는 다른 사람과 그런 방식으로 같이 있고 싶은 욕구가 전혀 없어요. 다른 사람에게 성적 끌림을 느끼지 않는 것이 정상인가요?
+2. 저는 소년과 소녀 모두에게 로맨틱한 끌림을 느끼지만, 신체적으로 함께 있고싶진 않아요. 양성애자이면서 무성애자일 수 있나요?
+3. 남자친구와 처음으로 키스를 했는데 역겨웠어요! 이게 제가 무성애자라는 뜻일까요?
+4. 파트너나 제가 좋아하는 사람에게 어떻게 제가 무성애자라고 말할 수 있을까요?
+5. 제가 무성애자라고 밝혔는데 사람들이 제가 문제가 있다고 말해요. 심지어 어떤 사람들은 무성애자 존재하지 않는다고까지 해요. 어떻게 해야 사람들이 절 이해할 수 있도록 알려줄 수 있을까요?
+
+
+#### _**질문 1: 제 친구들이 섹스에 대해 항상 이야기하고 다녀요, 그런데 저는 다른 사람과 그런 방식으로 같이 있고 싶은 욕구가 전혀 없어요. 다른 사람에게 성적 끌림을 느끼지 않는 것이 정상인가요?**_
+답변: 네. 다른 사람에게 성적 끌림을 느끼지 않은 것은 완전히 정상입니다. 사랑이 꼭 성관계와 동일하진 않습니다. 친구나 파트너와 강하고 의미 있는 관계를 성적인 연결 없이도 가질 수 있습니다. 실제로는 다양한 종류의 끌림을 설명하는 데 도움이 되는 큰 스펙트럼의 정체성과 섹슈얼리티가 존재합니다. 무성애와 같은 정체성들에 대해 더 알아보길 추천합니다! 알아보다 보면 성적 끌림을 느끼지 않는 것에 대해 더 편안하게 느끼도록 도움이 될 수도 있습니다. 정해진 내용이 없기도 하고 내용들이 조금씩 바뀔 수 있기 때문에 준비가 되지 않았다면 용어를 통해 자신에게 꼬리표를 붙이지 않아도 괜찮습니다. 느껴지는 감정이 시간에 따라 바뀔 수도 있지만 그래도 완전히 괜찮습니다!
 
 
 
-#### **_Question 2: I am romantically attracted to boys and girls, but I don’t want to be with them physically. Can I be bisexual and asexual?_**
-Answer: Absolutely! Because you feel romantically attracted to others, you may feel comfortable using the term “romantic” instead of “sexual,” then adding “bi-“ to show that you’re attracted to both boys and girls. This creates a term that’s commonly used in the asexual and ace community: “biromantic.” Another term for you to explore could be panromantic, which describes a person who is romantically attracted to others, but their attraction is not limited by the other person’s sex or gender.
+#### _**질문 2: 저는 소년과 소녀 모두에게 로맨틱한 끌림을 느끼지만, 신체적으로 함께 있고싶진 않아요. 양성애자이면서 무성애자일 수 있나요?**_
+답변: 그럼요! 당연히 그럴 수 있죠! 다른 사람들에게 로맨틱한 끌림을 느낀다면 "sexual" 대신 로맨틱이라는 용어를 사용하는 것이 더 편하게 느껴질 수도 있는데요. 그 다음으로 남자와 여자 모두에게 끌리는 의미를 나타내는데 "-bi"를 추가할 수도 있습니다. 이렇게 하면 무성애자 공동체에서 자주 사용되는 용어인 "바이로맨틱 (biromantic)이 만들어지게 됩니다. 또 다른 살펴볼 용어로는 다른 사람에게 성별이나 젠더에 제한받지 않고 끌림을 느끼는 사람을 묘사할 때 쓰는 팬로맨틱 (panromantic) 이라는 용어도 있습니다.
+
+
+#### **_질문 3: 남자친구와 처음으로 키스를 했는데 역겨웠어요! 이게 제가 무성애자라는 뜻일까요?_**
+답변: 꼭 그렇지는 않습니다. 많은 요소들이 우리의 정체성을 구성하는데, 신체적으로 혹은 로맨틱하게 끌리는 대상을 발견하는 과정이 시간이 지나면서 다양한 방식으로 이루어질 수 있습니다. 여러분 스스로의 감정이 내는 목소리에 귀를 귀울이고 있는 것처럼 보이는데, 아주 중요한 첫 걸음입니다! 첫 키스가 혼란스러울 수 있지만, 이런 경험을 하는 것은 완전히 정상입니다.
+
+무성애자로 정체화하는 사람들은 다른 사람들에게 성적 끌림을 거의 혹은 전혀 느끼지 않습니다. "aces"라고도 불리는 무성애자들은 종종 다른 사람에 대한 감정적, 영적, 로맨틱한 끌림을 포함하는 스펙트럼 어딘가에 자신이 속한다고 정체화하기도 합니다.
+
+남자 친구에 대해 어떻게 느끼는지 생각해 보는 것도 도움이 될수 있습니다. 로맨틱하게, 영적으로, 감정적으로 남자친구에 대해 어떻게 느끼고 있나요? 사랑이 반드시 성이나 신체적인 것과 동일하지는 않다는 점을 기억해주세요. 사실, 이런 요소들을 포함하지 않는 행복하고 건강한 관계들이 많습니다.
+
+그래서 여러분은 무성애자인가요? 결정은 여러분에게 맡기겠습니다. 여러분이 여러분 자신을 가장 잘 알테니까요. 조사를 더 해보고 "무성애"가 자신을 설명하는데 좋은 방법이라고 알게 될 수도 있습니다. 아니면 여러분 감정에 더 잘 맞는 다른 용어를 찾았을 수도 있구요. 스스로에게 시간을 주고 자신이 느끼는 감정에 대해 생각해볼 시간을 가져보세요. 여러분은 혼자가 아닙니다!
 
 
 
-#### **_Question_ _3: I kissed my boyfriend for the first time and it was gross! Does this mean I am asexual?_**
-Answer: Not necessarily. There are a lot of things that make up our identity, and who we are physically and romantically attracted to can be discovered over time in many different ways. It sounds like you are listening to yourself and are in touch with your feelings – that’s an awesome first step! What you experienced is perfectly normal, even though being grossed out by your first kiss might have been confusing.
+#### **_질문 4: 파트너나 제가 좋아하는 사람에게 어떻게 제가 무성애자라고 말할 수 있을까요?_**
+답변: 어려운 질문이네요. 쉬운 답변도 없는 것 같습니다. 누구에게 커밍아웃을 하든 커밍아웃은 무서울 수 있습니다. 그리고 무성애 공동체에 있는 많은 사람들이 커밍아웃을 하면서 파트너나 사랑하는 사람에게 거절당하는 것과 같은 특정한 위험에 처하기도 합니다. 일부 무성애자들은 자신을 있는 그대로 받아들여줄 파트너를 찾지 못할까 봐 두려움을 느끼기도 합니다. 그러나 지원을 해줄 수 있는 공동체들이 존재합니다. [AVEN](https://www.asexuality.org/)을 확인해보길 추천합니다. The Trevor Project도 커밍아웃을 하고자 하는 사람들을 위한 훌륭한 [커밍아웃과 관련된 자료](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/)를 가지고 있습니다.
 
-People who identify as asexual experience little or no sexual attraction to others. Asexual people, or “aces,” often identify somewhere on a spectrum that includes their emotional, spiritual and romantic attraction to other people.
-
-It might be helpful to think about how you feel about your boyfriend, too. How do you feel about him romantically, spiritually, and emotionally? Remember, love does not automatically equal sex or being physical. In fact, there are many happy, healthy relationships that don’t involve those things.
-
-So, are you asexual? That’s up to you to decide, because you know yourself best! You might do some more research and find out that “asexual” is a good way to describe yourself – or, you may find another term that fits your feelings better. Give yourself time and space to explore what you are feeling. You are not alone!
+여러분은 사랑과 행복을 누릴 지격이 있으며, 저희도 여러분이 있는 그대로 사랑해줄 누군가를 찾길 바랍니다. 아무리 상대방을 좋하더라도 원하지 않는 상관계를 강요받아서는 안 됩니다. 만약 누군가가 여러분이 무성애자라는 사실을 받아들이지 않는다면, 아마 맞는 사람이 아닐 수도 있습니다.
 
 
+#### **_질문 5: 제가 무성애자라고 밝혔는데 사람들이 제가 문제가 있다고 말해요. 심지어 어떤 사람들은 무성애자 존재하지 않는다고까지 해요. 어떻게 해야 사람들이 절 이해할 수 있도록 알려줄 수 있을까요?_**
+답변: 여러분이 사랑하고 의지하는 사람들에게 여러분의 감정을 솔직하고 용감하게 공유하는 것 처럼 보입니다. 하지만 사람들이 여러분의 말을 듣지 않거나 이해하지 못하는 상황은 정말 힘든 상황입니다. 가족과 친구들의 지지가 여러분이 스스로가 누군지 알아내는 데 큰 차이를 만들기 때문에 특히 힘든 상황일 수 있습니다. 무성애가 완전히 유효하고 정상이며, 여러분이 저희의 전적인 지지를 받고 있다는 걸 알아주셨으면 좋겠습니다!
 
-#### **_Question 4: How do I tell my partner/the person I like that I am asexual?_**
-Answer: This is a tough question, and there isn’t any easy answer. Coming out to ANYONE can be scary, and many people in the ace community face specific risks when coming out, like being rejected by a partner or love interest. Some asexual people even voice fears of never finding a partner who will accept them for who they are. However, there is a whole community out there that is able to offer support. We recommend checking out [AVEN](https://www.asexuality.org/). The Trevor Project also has a great [resource for coming out](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/) for anyone who chooses to do so.
+살면서 보는 사람들에게 무성애가 양성애자, 게이, 레즈비언, 팬섹슈얼, 혹은 이성애자가 되는 것과 같은 성적 지향이라는 것을 설명하면 도움이 될 수도 있습니다. 다른 사람들에게 어떻게 끌림을 느끼는지에 대한 내용이니까요. 신체적인 관계가 없더라도 친구나 파트너와 강하고 의미 있는 관계를 가질 수 있다고 말해주세요. 스스로 조사를 해볼 수 있도록 이 페이지 최하단에 있는 것처럼 확인해 볼 만한 자료를 알려줄 수도 있습니다.
 
-You deserve love and happiness, and we hope that you will find someone who will love you for the amazing, whole person that you are! You should NEVER feel pressured to have sex with someone if you don’t want to, no matter how much you like them. If someone doesn’t accept you for being asexual, then they might not be the right person for you.
+궁극적으로 우리가 다른 사람이 어떻게 반응하는지를 바꿀 수도 없고 우리가 진정으로 누구인지를 이해하라고 강요할 수도 없습니다. 하지만 우리의 이야기를 공유하고, 우리를 있는 그대로 받아들일 준비가 된 다른 사람들과 의미 있는 관계를 가질 수는 있습니다. 여러분은 세상에 중요한 존재이고, 저희는 여러분이 진정한 모습으로 존재하고 있어서 행복하다고 느낍니다.
 
 
 
-#### **_Question 5: People are telling me that something is wrong with me now that I’ve come out as asexual – even worse, some are saying that asexuality doesn’t exist. How can I help them understand me?_**
-Answer: It sounds like you are honestly and bravely sharing your feelings with the people you love and depend on, but that they aren’t hearing, understanding or validating you. That’s really tough, especially because having the support of family and friends can make such a huge difference as we’re discovering who we are. We want you to know that being asexual is completely valid and normal, and that you have our full support!
+## 무성애 스펙트럼에 있는 사람들을 이해하고 지지해줄때 볼만한 추가 자료들
+- [청소년들 사이의 무성애와 무성애 통계](https://www.thetrevorproject.org/research-briefs/asexual-and-ace-spectrum-youth/)
+- [무성애 가시성과 교육 네트워크 - 포럼을 포함](https://www.asexuality.org/)
+- [무성애 인식 주간](http://www.asexualawarenessweek.com/)
+- [무성애 인식 주간 기념하기](https://www.thetrevorproject.org/blog/celebrating-asexual-awareness-week/)
+- [무성애 101](https://www.thetrevorproject.org/wp-content/uploads/2017/09/asexuality.pdf)
+- [무성애 그룹 – 세계](https://asexualgroups.wordpress.com/)
+- [보이지 않는 지향성](https://time.com/2889469/asexual-orientation/)
+- [무성애: 짧은 소개 (무성애 보관소)](http://www.asexualityarchive.com/wp-content/uploads/2012/05/AsexualityABriefIntroduction.pdf)
+- [계획된 부모성: 성적 지향](https://www.plannedparenthood.org/learn/teens/lgbtq/sexual-orientation)
 
-It might help to explain to the people in your life that asexuality is a sexual orientation just like being bi, gay, lesbian, pan, or straight – it all comes down to how you are attracted to other people, in what ways. Remind them that you can have strong, meaningful relationships with friends or partners, even if you aren’t being physical with them. You can also try and connect them with some resources, like the ones at the bottom of this page, so they can do some research on their own.
-
-Ultimately, we can’t change how other people respond to us, or force them to understand who we are. What we can do is share our stories and make meaningful connections with others who are ready to accept us for who we are. You are an amazing gift to the world, and we are so happy that you are being authentically yourself.
-
-
-
-## Additional Resources for Understanding & Supporting People on the Asexual Spectrum
-- [Asexual & Ace Statistics Among Young People](https://www.thetrevorproject.org/research-briefs/asexual-and-ace-spectrum-youth/)
-- [AVEN – The Asexual Visibility and Education Network – Includes Forum](https://www.asexuality.org/)
-- [Asexual Awareness Week](http://www.asexualawarenessweek.com/)
-- [Celebrating Asexual Awareness Week](https://www.thetrevorproject.org/blog/celebrating-asexual-awareness-week/)
-- [Asexuality 101](https://www.thetrevorproject.org/wp-content/uploads/2017/09/asexuality.pdf)
-- [Asexual Groups – World List](https://asexualgroups.wordpress.com/)
-- [The Invisible Orientation](https://time.com/2889469/asexual-orientation/)
-- [Asexuality: A Brief Introduction PDF (Asexuality Archive)](http://www.asexualityarchive.com/wp-content/uploads/2012/05/AsexualityABriefIntroduction.pdf)
-- [Planned Parenthood: Sexual Orientation](https://www.plannedparenthood.org/learn/teens/lgbtq/sexual-orientation)
-
-Through The Trevor Support Center, you are able to link to other websites which are not under the control of The Trevor Project. The Trevor Project does not review or ensure the accuracy of the content on other sites.
+The Trevor Support Center를 통해 The Trevor Project의 통제 밖에 있는 다른 웹사이트들을 열 수 있습니다. The Trevor Project는 이러한 사이트에 있는 내용들의 정확도를 검토하거나 보장하지 않습니다.
