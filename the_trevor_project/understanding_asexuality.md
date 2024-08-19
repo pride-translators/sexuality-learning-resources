@@ -77,7 +77,7 @@
 - [무성애 101](https://www.thetrevorproject.org/wp-content/uploads/2017/09/asexuality.pdf)
 - [무성애 그룹 – 세계](https://asexualgroups.wordpress.com/)
 - [보이지 않는 지향성](https://time.com/2889469/asexual-orientation/)
-- [무성애: 짧은 소개 (무성애 보관소)](http://www.asexualityarchive.com/wp-content/uploads/2012/05/AsexualityABriefIntroduction.pdf)
+- [무성애: 짧은 소개 (AsexualityArchive)](http://www.asexualityarchive.com/wp-content/uploads/2012/05/AsexualityABriefIntroduction.pdf)
 - [계획된 부모성: 성적 지향](https://www.plannedparenthood.org/learn/teens/lgbtq/sexual-orientation)
 
 The Trevor Support Center를 통해 The Trevor Project의 통제 밖에 있는 다른 웹사이트들을 열 수 있습니다. The Trevor Project는 이러한 사이트에 있는 내용들의 정확도를 검토하거나 보장하지 않습니다.
