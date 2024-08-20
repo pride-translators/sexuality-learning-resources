@@ -10,3 +10,6 @@
 
 ## [The Trevor Project](https://www.thetrevorproject.org/)
 - [무성애 이해하기](./the_trevor_project/understanding_asexuality.md)
+
+## [Scientific American](https://www.scientificamerican.com/)
+- [무성애가 마침내 의료적 낙인에서 벗어나고 있다](./scientific_american/asexuality_is_finally_breaking_free_from_medical_stigma/asexuality_is_finally_breaking_free_from_medical_stigma.md)
