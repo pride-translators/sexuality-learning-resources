@@ -6,7 +6,7 @@
 - [섹슈얼리티에 대해 설명해보겠습니다](./better_health_channel/sexuality_explained.md)
 
 ## [Human Rights Campaign](https://www.hrc.org/)
-- [무성애자 그룹 이해하기](./human_rights_campaign/understanding_the_asexual_community.md)
+- [무성애자 공동체 이해하기](./human_rights_campaign/understanding_the_asexual_community.md)
 
 ## [The Trevor Project](https://www.thetrevorproject.org/)
 - [무성애 이해하기](./the_trevor_project/understanding_asexuality.md)
