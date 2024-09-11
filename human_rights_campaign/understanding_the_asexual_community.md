@@ -1,3 +1,8 @@
+---
+title: "무성애자 공동체 이해하기"
+---
+
+
 # 무성애자 공동체 이해하기
 > 원문을 읽고 싶으신가요? [여기](https://www.hrc.org/resources/understanding-the-asexual-community)를 확인해보세요.
 

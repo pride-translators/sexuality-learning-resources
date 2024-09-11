@@ -1,3 +1,8 @@
+---
+title: "섹슈얼리티에 대해 설명해보겠습니다"
+---
+
+
 # 섹슈얼리티에 대해 설명해보겠습니다
 > 원문을 읽고 싶으신가요? [여기](https://www.betterhealth.vic.gov.au/health/healthyliving/Sexuality-explained)를 확인해보세요.
 
