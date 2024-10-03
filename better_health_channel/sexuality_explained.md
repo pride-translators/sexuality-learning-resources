@@ -41,7 +41,7 @@ Better Health Channel은 [레즈비언 섹슈얼리티](https://www.betterhealth
 
 세상에는 다양한 종류의 양성애자 분류들이 있는데, 남자와 여자 모두에게 끌림을 느끼는 어떤 사람들은 자신들을 이성애자라고 할 수도 있고 게이라고 할 수도 있습니다. 어떤 사람들은 두 젠더 모두에게 끌림을 느끼지만 한 젠더하고만 성관계를 가질 수도 있습니다.
 
-어떤 사람들은 섹슈얼리티를 흑백 논리처럼 명확하게 보지 않고, 더 애매하게 생각할 수도 있습니다. 이러한 사람들은 일상적으로 사용되는 꼬리표가 너무 경직되었다고 느끼고, 일부는 자신을 '퀴어'로 정체화하기도 합니다. 또 어떤 사람들은 '팬<sup>(pan)</sup>' 혹은 '팬섹슈얼'<sup>(pansexual)</sup> (혹은 한국어로 '범성애자') 이라는 용어를 사용하여 자신들이 젠더, 젠더 정체성, 젠더 표현과 관계없이 다양한 사람들에게 끌림을 느낀다고 알려주기도 합니다.
+어떤 사람들은 섹슈얼리티를 흑백 논리처럼 명확하게 보지 않고, 더 애매하게 생각할 수도 있습니다. 이러한 사람들은 일상적으로 사용되는 꼬리표가 너무 경직되었다고 느끼고, 일부는 자신을 '퀴어'로 정체화하기도 합니다. 또 어떤 사람들은 '팬<sup>(pan)</sup>' 혹은 '범성애자'<sup>(pansexual)</sup>라는 용어를 사용하여 자신들이 젠더, 젠더 정체성, 젠더 표현과 관계없이 다양한 사람들에게 끌림을 느낀다고 알려주기도 합니다.
 
 사람마다 차이가 있을 수 있기 때문에 양성애가 그냥 일반적으로 사용되는 용어라고 기억해 주셔도 좋습니다. 양성애에 대해 더 알고 싶다면 Better Health Channel의 [양성애](https://www.betterhealth.vic.gov.au/health/healthyliving/bisexuality) 페이지를 참고해 주세요.
 
@@ -55,7 +55,7 @@ Better Health Channel은 [레즈비언 섹슈얼리티](https://www.betterhealth
 
 빅토리아주를 포함한 호주의 대부분의 주에서는 섹슈얼리티, 젠더 정체성, 또는 합법적인 성적 활동을 이유로 누군가를 차별하는 것이 법적으로 금지되어 있습니다. 하지만 그렇더라도 차별이 발생할 수 있습니다.
 
-여러분이 섹슈얼리티 ([혹은 다른 여러 이유](https://www.humanrights.vic.gov.au/for-individuals/discrimination/)) 로 [차별을 당했거나](https://www.humanrightscommission.vic.gov.au/discrimination) 피해자가 됐다고 생각한다면,  [빅토리아주 회 및 인권 위원회](https://www.humanrightscommission.vic.gov.au/home/about-us/contact-us)에 연락해주세요. 섹슈얼리티와 관련된 정체성에 기반한 차별에 관한 고용주의 법적 의무에 대한 정보를 확인하고 싶다면 빅토리아주 기회 평등 및 [인권 위원회](https://www.humanrights.vic.gov.au/) 웹페이지의 평등한 기회 실천 가이드라인을 확인해 주세요.
+여러분이 섹슈얼리티 ([혹은 다른 여러 이유](https://www.humanrights.vic.gov.au/for-individuals/discrimination/)) 로 [차별을 당했거나](https://www.humanrightscommission.vic.gov.au/discrimination) 피해자가 됐다고 생각한다면,  [빅토리아주 기회 및 인권 위원회](https://www.humanrightscommission.vic.gov.au/home/about-us/contact-us)에 연락해주세요. 섹슈얼리티와 관련된 정체성에 기반한 차별에 관한 고용주의 법적 의무에 대한 정보를 확인하고 싶다면 빅토리아주 기회 평등 및 [인권 위원회](https://www.humanrights.vic.gov.au/) 웹페이지의 평등한 기회 실천 가이드라인을 확인해 주세요.
 
 
 ## 섹슈얼리티와 정신 건강
