@@ -74,7 +74,7 @@ title: "무성애 이해하기"
 
 
 
-## 무성애 스펙트럼에 있는 사람들을 이해하고 지지해줄때 볼만한 추가 자료들
+## 무성애 스펙트럼에 있는 사람들을 이해하고 지지해 줄 때 볼만한 추가 자료
 - [청소년들 사이의 무성애와 무성애 통계](https://www.thetrevorproject.org/research-briefs/asexual-and-ace-spectrum-youth/)
 - [무성애 가시성과 교육 네트워크 - 포럼을 포함](https://www.asexuality.org/)
 - [무성애 인식 주간](http://www.asexualawarenessweek.com/)
