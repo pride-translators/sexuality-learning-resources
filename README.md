@@ -14,3 +14,7 @@
 
 ## [Scientific American](https://www.scientificamerican.com/)
 - [무성애가 마침내 의료적 낙인에서 벗어나고 있다](./scientific_american/asexuality_is_finally_breaking_free_from_medical_stigma/asexuality_is_finally_breaking_free_from_medical_stigma.md)
+
+## [Cleveland Clinic](https://health.clevelandclinic.org/)
+- [What Does It Mean To Be Asexual? (미완료)](./cleveland_clinic/what_does_it_mean_to_be_asexual.md)
+- [What Is Sexual Orientation? (미완료)](./cleveland_clinic/what_is_sexual_orientation.md)
