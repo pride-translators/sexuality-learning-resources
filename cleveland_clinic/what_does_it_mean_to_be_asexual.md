@@ -1,93 +1,98 @@
-# What Does It Mean To Be Asexual?
+---
+title: "무성애자인 것이 무슨 의미인가요?"
+excerpt: "자신이 누구인지 아는 것과 자신이 어떻게 정체화하는지는 어떤 사람들에겐 쉬울 수 있습니다. 하지만 어떤 사람들에게는 이것이 개인적인 경험과 발달에 기반한 평생에 걸친 발견의 여정일 수 있습니다."
+---
+
+
+# 무성애자인 것이 무슨 의미인가요?
 > 원문을 읽고 싶으신가요? [여기](https://health.clevelandclinic.org/asexual)를 확인해보세요.
+무성애자인 것이 무엇인지에 대한 우리의 이해가 피어난다
 
-Our understanding of what it means to be asexual has blossomed
-
-![The asexual pride flag with stripes of black, grey, white and purple from top to bottom.](./attachments/what_does_it_mean_to_be_asexual.webp)
+![최상단부터 최하단까지 검정과 회색, 흰색, 보라색 줄무늬가 있는 무성애 프라이드 깃발](./attachments/what_does_it_mean_to_be_asexual.webp)
 
 \
-Knowing who you are and how you identify can come easily for some. But for others, it can be a lifelong journey of discovery based on personal experiences and development.
+자신이 누구인지 아는 것과 자신이 어떻게 정체화할지는 어떤 사람들에겐 쉬운 문제일 수 있습니다. 하지만 어떤 사람들에게는 개인적인 경험과 발달에 기반한 평생에 걸친 발견의 여정일 수도 있습니다.
 
-As our language around identity continues to evolve, so, too, has our ability to create more terminology that better defines how we feel about who we are, who we’re attracted to and how we experience attraction. This is especially true for the asexual community.
+정체성과 관련되는 우리의 언어가 계속해서 진화함에 따라, 우리가 누구인지에 대해 어떻게 느끼고, 우리가 누구에게 끌리고, 어떻게 끌림을 경험하는지 더 잘 정의해주는 용어들을 만드는 능력 또한 진화하였습니다. 이는 특히 무성애 공동체에서 두드러집니다.
 
-Over the last decade, our understanding of what it means to be asexual has blossomed, giving rise to a multitude of identities that are defined by the ebb and flow of our own sexual attraction and how it relates to our relationships, sexual desire and romantic attraction. Our understanding of the different identities we all have is crucial to the mental health, emotional health and overall well-being of ourselves, our friends, our families and the members of our community. This is important when you consider that, historically, medical education has [excluded LGBTQ+ content](https://pubmed.ncbi.nlm.nih.gov/35766109/) from curricula as a result of discrimination.
+지난 10년동안, 무성애자인 것이 어떤 의미인지에 대한 우리의 이해가 피어났습니다. 그렇게 이러한 이해는 성적 끌림의 변동, 이 변동이 어떻게 (인간)관계와 성적 욕구와 로맨틱한 끌림에 연관되는지에 대한 방식에 따라 정의되는 많은 정체성들이 드러나게 하였습니다. 우리 모두가 가지고 있는 여러 정체성들에 대한 우리의 이해는 정신 건강, 감정적 건강과 우리 자신, 우리의 친구, 우리의 가족, 그리고 우리 공동체 일원들의 전반적인 웰빙(well-being)에 중요합니다. 이는 역사적으로 의학 교육이 차별의 결과로 커리큘럼에서 [LGBTQ+ 와 관련된 내용을 배제](https://pubmed.ncbi.nlm.nih.gov/35766109/)하였다는 점을 생각하면 중요합니다.
 
-“Asexuality is a little nebulous,” says pediatric psychologist [Gina Rhodes, PhD](https://my.clevelandclinic.org/staff/27020-gina-rhodes). “Asexuality is on its own spectrum and it’s looking at not just sexual attraction, but also romantic attraction.”
+"무성애는 조금 애매합니다." 소아 심리학자 [Gina Rhodes, PhD](https://my.clevelandclinic.org/staff/27020-gina-rhodes)가 말합니다. "무성애는 그 자체로 스펙트럼에 있고, 성적 끌림만을 바라보는 것이 아니라 로맨틱한 끌림도 바라봅니다."
 
-Dr. Rhodes helps us explore what it means to be asexual, while paying special attention to the ways we talk about attraction across the board.
+전반적으로 우리가 끌림에 대해 이야기하는 방식을 유심히 살펴보면서, Rhodes 박사가 무성애자인 것이 어떤 의미인지 탐험하도록 도와주도록 합니다.
 
-## **What is asexuality?**
-Also referred to as “ace,” asexuality is an umbrella term for anyone who experiences little to no sexual attraction toward other people. Asexuality can vary in a lot of ways depending on our relationships and how we define our levels of sexual attraction, romantic attraction and aesthetic attraction.
+## **무성애가 뭔가요?**
+(영어) "ace"로도 불리는 무성애는 다른 사람들을 향해 성적 끌림을 거의 못 느끼는것부터 아예 느끼지 않는 사람들을 의미하는 포괄적인 용어입니다. 무성애는 우리의 인간관계, 우리가 어떻게 성적 끌림과 로맨틱한 끌림, 그리고 에스테틱 끌림의 단계를 정의하는지에 따라 여러 방식으로 다양할 수 있습니다.
 
-It’s important to note that sexual attraction and romantic attraction are two different things; although, in modern society, they’re often blended together as two parts of the same whole.
+성적 끌림과 로맨틱한 끌림 두가지가 다르다는 것을 알아두는 것이 중요합니다. 현대 사회에서는 흔히 두 부분이 동일한 전체로써 같이 섞이긴 하지만요.
 
-Sexual attraction can be defined as our desire to touch another person in an intimate way. We can be sexually attracted to someone without ever experiencing romantic feelings.
+성적 끌림은 친밀한 방식으로 다른 사람을 만지고 싶다는 욕구로 정의될 수 있습니다. 우리는 로맨틱한 감정을 한 번도 느끼지 않고도 누군가에게 성적으로 끌릴 수 있습니다.
 
-Romantic attraction, then, can be defined as our desire to have a deep, affectionate connection with someone else. Romantic attraction can exist without us ever experiencing sexual attraction and it relies solely on establishing that close, emotional attachment. You can be aromantic, which means you may experience little to no romantic attraction to other people.
+그러면 로맨틱한 끌림은 다른 누군가와 깊고 다정한 연결을 가지고 싶은 욕구로 정의될 수 있습니다. 로맨틱한 끌림은 성적 끌림을 전혀 경험하지 않고도 존재할 수 있고, 단지 가깝고 감정적인 애착에 달려있습니다. 여러분이 무로맨틱일수도 있는데, 이는 다른사람에게 로맨틱한 끌림을 거의 못 느끼는 것부터 아예 느끼지 않을 수도 있다는 의미입니다.
 
-Then, there’s aesthetic attraction, which can be defined as appreciation for someone’s beauty or appearance without having sexual or romantic attraction.
+그렇다면 에스테틱 끌림도 있습니다. 이는 성적 혹은 로맨틱한 끌림 없이 누군가의 매력 혹은 외모를 즐기는 것으로 정의될 수 있습니다.
 
-For people who identify as asexual, they may experience heightened levels of romantic or aesthetic attraction, but little to no sexual attraction to the people in their lives.
+무성애자로 정체화하는 사람들은 고양된 수준의 로맨틱 혹은 에스테틱 끌림을 경험할 수 있습니다. 하지만 일상에서 보게 되는 사람들에게 성적 끌림을 거의 못 느끼는것부터 아예 느끼지 않기도 하면서요.
 
-“It looks different from person to person,” says Dr. Rhodes. “For some people, it means they have a romantic partner but perhaps that relationship either doesn’t include sexual contact or includes different kinds of intimate contact like cuddling. Or, it could involve sexual contact but it’s just not something that the asexual partner feels strongly about.”
+"사람마다 달라 보입니다." Rhodes 박사가 말합니다. "어떤 사람들에게는 로맨틱한 파트너를 가지지만 아마 이 관계가 성적인 접촉을 포함하지 않거나 껴앉는 것과 같은 다른 종류의 친말적인 접촉을 포함할 것입니다. 아니면 성적인 접촉이 포함되지만 단순히 무성애자 파트너가 강력히 원하지는 않는 것일수도 있습니다."
 
-Someone who identifies as asexual might engage in sex as more of a way to show that they care, for example, rather than something they’re invested in.
+예를 들어 무성애자로 정체화하는 사람이 실제로 관심을 가지기 보다는 자신이 상대방을 아낀다는 것을 보이기 위한 방식으로 성관계를 할 수도 있습니다.
 
-There are a lot of misconceptions about asexuality. It’s often been wrongly confused with loss of libido. One major misconception is that asexuality is a medical condition on its own that can be cured or treated. Others like to think asexuality is like celibacy or abstinence. And then there’s the dangerous presumption that someone might identify as asexual because they’ve experienced some kind of sexual trauma or physical assault. But Dr. Rhodes warns that these misconceptions are generally untrue and can be quite harmful.
+무성애에 대해 많은 오해들이 존재합니다. 흔히 성욕의 상실로 잘못 혼동되기도 합니다. 큰 오해 중 한가지는 무성애가 그 자체로 의학적 상태이고 치유되고 치료되어야 한다는 것입니다. 어떤 사람들은 무성애가 독신주의나 금욕과 같다고 생각하기도 합니다. 그리고 누군가가 성적인 트라우마나 신체적인 폭력을 경험하였기 때문에 무성애자로 정체화할 것이라는 위험한 추측도 있습니다. 하지만 Rhodes 박사는 이러한 오해들이 대개 사실이 아니고 상당히 해로울 수 있다고 경고합니다.
 
-“Associating asexuality with trauma does get harmful because, for many people, this is something that’s been a process of discovery rather than something that was inflicted upon them,” says Dr. Rhodes. “The assumption that someone’s identity is a result of trauma can really take away the agency and hard work that person may have done to accept themselves for being asexual, especially when we live in a society that really values sexual and romantic attraction.”
+"섹슈얼리티와 트라우마를 연관짓는 것은 위험합니다. 왜냐하면 이는 많은 사람들에게 있어서 가해진 것이 아니라 발견의 과정이었기 때문입니다." Rhodes 박사가 말합니다. "누군가의 정체성이 트라우마의 결과일 것이라는 추측은 그 사람이 자신을 무성애자로 받아들이는데 들인 행동권과 노력을 무시하는 것이 될 수도 있습니다. 특히 성적 그리고 로맨틱한 끌림을 중시하는 사회에서는 더더욱 그렇습니다."
 
-And unlike celibacy or abstinence — which are temporary decisions based on one’s circumstances or beliefs — asexuality is an orientation, an identity and a state of being. It’s not a choice.
+그리고 개인의 상황이나 신념에 기반한 일시적인 결정인 독신주의와 금욕과 다르게 무성애는 지향성입니다. 하나의 정체성이고 존재하는 상태라는 것입니다. 이것은 선택이 아닙니다.
 
-“Asexuality is something more persistent,” says Dr. Rhodes.
+"무성애는 지속적인 것입니다." Rhodes 박사가 말합니다.
 
-### **Types of asexuality**
-Like all sexual orientations that exist on a spectrum, asexuality can be fluid. Someone who is asexual may experience varying degrees of sexual attraction throughout their lifetime and it can vary from relationship to relationship. Someone may use the umbrella term “asexual” as their defining identity. There are also several subgroups or categories of identities that have been created to better define the various degrees someone might experience their asexual identity.
+### **무성애의 종류**
+스펙트럼에 존재하는 모든 성적 지향과 마찬가지로, 무성애는 유동적일 수 있습니다. 무성애자는 평생에 걸쳐 여러 수준의 성적 끌림을 경험할 수 있고, 이는 관계마다 다를 수 있습니다. 어떤 사람은 자신의 정의되는 정체성으로서 "무성애자"라는 포괄적인 용어를 사용할 수도 있습니다. 누군가가 자신의 무성애 정체성을 경험하는 것의 여러 수준을 더 잘 정의하기 위해 만들어진 하위 그룹 또는 카테고리도 있습니다.
 
-The following list is not all-inclusive, but these are some asexual identities to be aware of:
+다음 목록은 무성애자 정체성 전체를 포함하진 않지만 알아둘만한 무성애 정체성들입니다:
 
-#### **Aceflux**
-As a sexual orientation on the asexual spectrum, this identity is defined as someone whose orientation changes over time but generally stays on the asexual spectrum. For example, if you usually have no desire for sexual activity, but there are days or weeks where you do desire sexual activity, this might be an identity you relate to.
+#### **에이스플럭스<sup>(Aceflux)</sup>**
+무성애 스펙트럼에서의 성적 지향으로써, 이 정체성은 자신의 지향성이 시간이 지나면서 바뀌지만 보통은 무성애 스펙트럼에 머무르는 것으로 정의됩니다. 예를 들어, 성적 활동에 보통은 관심이 없지만 성적 활동을 원하는 날이나 주가 있을 수 있다면, 에이스플럭스가 공감될 만한 정체성일 수 있습니다.
 
-“Asexuality can change over time as people know themselves better and get a better picture of what relationships look like,” says Dr. Rhodes. “It’s something that can be in flux for a lot of people.”
-
-
-#### **Demisexual**
-If you’re demisexual, you may only find someone sexually attractive if you’ve developed an emotional or romantic connection with them. If you don’t have that emotional or romantic connection, you typically don’t experience sexual attraction to others. For many people who identify as demisexual, they may hold off on participating in sexual activity until they’ve developed that emotional and romantic connection.
+"사람들이 자신 스스로에 대해 더 잘 알게 되고 (인간)관계들이 어떻게 보일지 더 큰 그림을 가지게 되면서 무성애가 시간이 지나면서 바뀔 수 있습니다." Rhodes 박사가 말합니다. "이는 많은 사람들에게 있어서 유동적(flux)일 수 있다는 것입니다."
 
 
-#### **Fraysexual**
-Someone who is fraysexual (or ignotasexual) may experience sexual attraction with someone at first, but then that sexual attraction fades over time once they develop an emotional bond. This identity can be seen as the opposite of demisexual.
+#### **데미섹슈얼<sup>(Demisexual)</sup>**
+만약 여러분이 데미섹슈얼이라면, 감정적이거나 로맨틱한 연결을 형성하였을 때만 누군가에게 성적 끌림을 느낄 수도 있습니다. 이런 감정적이거나 로맨틱한 연결을 가지지 않는다면, 보통 다른 사람들에게 성적 끌림을 느끼지 않습니다. 데미섹슈얼로 정체화하는 많은 사람들이 감정적이고 로맨틱한 연결을 형성하기 전까지 성적인 활동에 참여하는 것을 미룰 수도 있습니다.
 
 
-#### **Graysexual**
-As asexuality is a spectrum, graysexuals fall into that gray area that exists between wanting and not wanting sexual activity. You may identify as graysexual if you experience limited sexual attraction on an infrequent basis. When you do experience sexual attraction, it may not be strong or intense enough to act upon it.
+#### **프레이섹슈얼<sup>(Fraysexual)</sup>**
+프레이섹슈얼인 (혹은 이그노타섹슈얼<sup>(ignotasexual)</sup>인) 사람은 성적 끌림을 처음에는 느끼지만 감정적인 유대감을 형성하면서 이 성적 끌림이 시간이 지남에 따라 잦아듭니다. 이 정체성은 데미섹슈얼의 반대로 보여질 수 있습니다.
 
 
-#### **Lithosexual**
-This sexual orientation refers to people who may experience sexual attraction to others but don’t want those feelings reciprocated. You may be uncomfortable at the thought of someone finding you sexually attractive and you may lose your feelings of sexual attraction if you discover those feelings are mutual. For these reasons, you may not seek out sexual relationships.
+#### **그레이섹슈얼/회색무성애<sup>(Graysexual)</sup>**
+무성애가 스펙트럼이기 때문에, 회색 무성애자들은 성적 활동을 원하는 것과 원하지 않는것 사이에 존재하는 회색 영역으로 들어가게 됩니다. 제한적인 성적 끌림을 드물게 느낀다면 회색 무성애로 정체화 할 수도 있습니다. 성적 끌림을 경험할 때, 실행에 옮길 정도로 강하거나 강렬하지 않을 수도 있습니다.
 
 
-### **How do you know if you’re asexual?**
-Discovering your identity begins with reflecting on your own personal experiences and feelings. As you learn along the way, some important questions you may want to ask yourself include:
+#### **리토섹슈얼<sup>(Lithosexual)</sup>**
+이 성적 지향은 다른 사람들에게 성적 끌림을 느끼지만 그 감정이 상대방에게서 돌아오는 것을 원하지 않는 사람들을 의미합니다. 누군가가 자신에게 성적 끌림을 느낀다는 생각에 불편함을 느끼고 이러한 감정이 상호적인 것을 알게 된다면 성적 끌림의 감정을 잃을 수도 있습니다. 이러한 이유로 성적 관계를 추구하지 않을 수도 있습니다.
 
-- What does sexual attraction look like for me today?
-- What has sexual desire looked like for me in my life?
-- What does my identity mean to me?
-- How would this identity change the way I think about myself?
-- How would this identity change the way I think about relationships I have with other people?
-- Are there changes I want to make in my sexual and romantic relationships?
-- Are there aspects of my identity I want to communicate to my loved ones?
 
-“A lot of people will begin this journey by just trying to learn more about asexuality and trying to get a sense of what label feels right for them,” says Dr. Rhodes. “The advice I would give is to make connections with other asexual people and asexual groups and hear about their experiences coming to terms with their identity. One of the best ways we can learn about ourselves is through other people’s journeys.”
+### **어떻게 자신이 무성애자인지 알수 있나요?**
+자신의 정체성을 발견하는 것은 자신의 개인적인 경험과 감정을 성찰하는 것으로 시작됩니다. 계속 배워나가면서, 자신에게 물어보고 싶을 수도 있는 중요한 질문들은 다음을 포함합니다:
 
-#### **How to talk to your friends and family about your asexual identity**
-If you’ve discovered that you’re asexual, when and how you share that information with the people in your life is up to you. How you choose to come out depends on how you’re feeling about your physical safety and emotional and mental health. Coming out happens at different times for different people, so it’s OK if you’re not ready.
+- 오늘 성적 끌림이 나에게는 어떻게 보일까?
+- 내 삶에서 성적 욕구가 어떻게 나에게 보였을까?
+- 내 정체성이 나에게 무슨 의미일까?
+- 이 정체성이 내가 내 자신을 생각하는 방식을 어떻게 바꿀까?
+- 이 정체성이 내가 다른 사람들과 갖는 (인간)관계들에 대해 생각하는 방식을 어떻게 바꿀까?
+- 나의 성적 그리고 로맨틱한 관계에서 내가 바꾸고 싶은 것들이 있을까?
+- 내가 아끼는 사람들에게 전하고 싶은 나의 정체성의 어떤 측면이 있을까?
 
-When you _are_ ready to share this information, though, a good place to start the conversation may be by asking your audience what they understand about asexuality.
+"많은 사람들이 단순히 섹슈얼리티에 대해 배워보려고, 어떤 이름표가 자신들에게 맞는지 알게 되려고 하면서 이 여정을 시작할 것입니다." Rhodes 박사가 말합니다. "제가 드릴만한 조언으로는 다른 무성애자들, 무성애자 그룹들과 연결해나가고(make connection), 자신들의 정체성을 받아들이는 그들의 경험에 대해 들어보라는 것입니다. 우리 스스로에 대해 배울 수 있는 가장 좋은 방법은 다른 사람들의 여정을 통해 배우는 것입니다."
 
-“Start with what they already know,” advises Dr. Rhodes. “Ask, ‘What do you know about asexuality or the asexuality spectrum? What do you think of this idea that there’s a split between romantic and sexual attraction and how each of those things can vary from person to person?’”
+#### **자신의 무성애 정체성에 대해 친구들과 가족들에게 말하는 방법**
+자신이 무성애자인 것을 알아냈다면, 언제 그리고 어떻게 이 정보를 삶에서 보게 되는 사람들에게 공유할지는 여러분에게 달려 있습니다. 어떻게 커밍아웃할지는 자신의 신체적 안전과 감정적, 정신적 건강에 대해 어떻게 느끼는지에 따라 다릅니다. 커밍아웃은 다양한 때에 다양한 사람들에게서 일어납니다. 그러므로 아직 준비가 되지 않았어도 괜찮습니다.
 
-By opening the conversation up in this way, you can gauge how much they know and where they could use more education to better understand your own identity. Along the way, your identity may change or evolve based on how you’re feeling and the kinds of relationships you’re a part of. If this happens, it’s important to remember, and remind your loved ones, that sexual orientation and asexuality exist on a spectrum. Who you are today may not be who you are tomorrow, and that’s perfectly OK.
+하지만 이 정보를 공유할 준비가 __되었다면__, 대화를 시작하기 좋은 시작점은 상대방이 무성애에 대해 이해하는지 묻는 것이 될 수도 있습니다.
 
-“Identity is not a gotcha game. If someone’s identity changes or flexes, it’s influenced by their experience,” explains Dr. Rhodes. “When people tell you who they are, it’s valuable to believe them.”
+"이미 아는 것부터 시작하세요." Rhodes 박사가 말합니다. "한번 물어보세요. '무성애나 무성애 스펙트럼에 대해 어떤 걸 알고있어? 로맨틱한 끌림과 성적 끌림이 나뉘어져 있고 그 두 가지가 사람마다 다를 수 있다는 생각에 대해 어떻게 생각해?'"
+
+이 방식으로 대화를 시작하면, 상대방이 얼마나 알고 있고, 여러분의 정체성을 이해시키기 위해 더 알려줄 수 있는지 저울질을 해볼 수 있습니다. 그 과정에서, 자신이 어떻게 느끼는지와 자신이 속한 (인간)관계의 종류에 따라 자신의 정체성이 바뀔 수도 있고 발전할 수도 있습니다. 그렇게 된다면, 성적 지향과 섹슈얼리티는 스펙트럼에 존재한다고 알아두고 아끼는 사람들에게 알려주는 것이 좋습니다. 오늘날의 자신이 내일의 자신이 아닐 수도 있습니다. 그래도 완전히 괜찮습니다.
+
+"정체성은 가챠 게임이 아닙니다. 누군가의 정체성이 바뀌고 변형된다면, 이는 그들의 경험에서 영향을 받은 것입니다." Rhodes 박사가 말합니다. "사람들이 자신이 누구인지 말할 때, 그 사람을 믿어주는 것이 가치가 있습니다."
